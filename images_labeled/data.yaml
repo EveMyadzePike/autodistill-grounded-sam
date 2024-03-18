@@ -1,0 +1,6 @@
+names:
+- person
+- shipping container
+nc: 2
+train: /home/myadze.2/autodistill-grounded-sam/images_labeled/train/images
+val: /home/myadze.2/autodistill-grounded-sam/images_labeled/valid/images
